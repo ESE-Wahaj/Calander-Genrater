@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int month, year;
+    auto month, year;
 
     // Input month and year
     cout << "\n     0.Enter 0 if you want Calender of a YEAR. \n     1.Enter 1 if you want Calender of a MONTH.\n     2.Enter 2 if want to check for LEAP YEAR\n";
